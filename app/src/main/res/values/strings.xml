@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea asíncrona</string>
+    <string name="napping">"Trabajando..."</string>
+    <string name="comenzar">"Comenzar"</string>
+
+    <string name="bienvenido">"Bienvenido"</string>
+</resources>
